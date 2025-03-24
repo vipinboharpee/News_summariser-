@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+nltk
+textblob
+gtts
+python-dotenv
+scipy
